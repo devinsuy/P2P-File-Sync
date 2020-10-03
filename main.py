@@ -1,6 +1,6 @@
-# ---------------------------------
-# CECS 327 : Devin Suy : 017001983
-# ---------------------------------
+# ---------
+# Devin Suy
+# ---------
 from Network.NetworkNode import NetworkNode
 
 n = NetworkNode()
