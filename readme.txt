@@ -1,9 +1,6 @@
 ---------
 Devin Suy
 ---------
-(See "Demo/" directory for screen capture video demonstration of execution from perspective of different nodes)
-(The included "file_set" corresponds to those used on the different nodes in the video demonstration)
-
 Contact : DevinSuy@gmail.com
 
 Peer To Peer Networking
