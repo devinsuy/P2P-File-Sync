@@ -68,7 +68,7 @@ How does the client deal with files of the same name, but different contents? Di
 		- Request a file not present locally that is presented in the distributed version
 	
 	
-3. How does the client determine which files to sync in which order
+How does the client determine which files to sync in which order
 -------------------------------------------------------------------
 	- Each node also contains a self.last_change_time attribute that is set to time.time() whenever a file is 
 	  detected to have been added/deleted/modified. On a sync operation for a given node, it requests the last_change_time
